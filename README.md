@@ -1,7 +1,7 @@
 # GFW papers
 Collection of papers about China's Great Firewall.
 
-**Permanent archive: https://bit.ly/gfw-papers\.**
+<b>Permanent archive: https://bit.ly/gfw-papers</b>
 
 ## List of papers (Listed in alphabetical order of authors' last names)
 * Bu, Ruiwei. "**The Great Firewall of China**", CSC 540. https://web.archive.org/20211006150847/http://campus.murraystate.edu/academic/faculty/wlyle/540/2013/bu.pdf
